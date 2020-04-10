@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contents">
+        <item>e mot « solitude », selon le Dictionnaire historique de la langue française,
+            vient du latin solitudo : lieu désert, vie isolée, état d’abandon-absence-manque.
+            À en croire son étymologie, la solitude n’aurait donc rien de bien réjouissant.
+            Et pourtant, ce terme n’a pas toujours été connoté négativement, nous apprend la
+            Britannique Fay Bound Alberti dans A Biography of Loneliness. En tant qu’historienne
+            culturelle, Bound Alberti « voit les émotions plutôt comme des constructions sociales
+            que comme des manifestations biologiques.
+        </item>
+        <item>a mot « rémission » désigne l’acte de pardonner les péchés, d’atténuer une peine
+            (de justice), mais aussi l’atténuation temporaire ou permanente des symptômes d’une
+            maladie. Ce vocabulaire dénote une vision moraliste de la santé, que le dernier livre
+            du psychiatre américain Jeffrey Rediger ne fait que souligner, regrette Steven Poole
+            dans The Guardian.
+        </item>
+        <item>orsqu’à 8 ans, Ariana Neumann s’amuse à explorer le bureau de son père en jouant à
+            l’espionne, elle ne pouvait imaginer qu’elle découvrirait un véritable secret de famille.
+            Dans une boîte, elle trouve une carte d’identité où figure la photo de son père, mais
+            portant un autre nom que le sien. Adulte, cette découverte ne cessera de la hanter, mais
+            ce n’est qu’en 2001, à la mort de son père, qu’elle se sentira en droit d’explorer son
+            histoire familiale. Dans When Time Stopped, elle exhume le passé douloureux d’un homme
+            qui n’a jamais réussi à en parler à quiconque.
+        </item>
+    </string-array>
+</resources>

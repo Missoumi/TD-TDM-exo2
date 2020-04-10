@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="writerImage">
+        <item>@drawable/writer1</item>
+        <item>@drawable/writer2</item>
+        <item>@drawable/writer3</item>
+    </integer-array>
+</resources>
